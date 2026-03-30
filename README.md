@@ -453,7 +453,8 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Testim](https://www.testim.io/) - Frontend testing.
 
 ---
-
+## Miscellaneous
+* [FreeDevKit](https://www.freedevkit.com) - Free developer utilities and tools kit.
 ## Contributing
 
 See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
